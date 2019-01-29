@@ -5,6 +5,7 @@
 - When a User clicks on the "Bark" button it should render text to the screen that says "Ruff"
 - When a User clicks on the button a second time the "Ruff" should be removed from the DOM
 
+<<<<<<< HEAD
 # What are we practicing?
 
 - Making decisions about when we need state and which component should hold state
@@ -12,3 +13,6 @@
 - mapping through an array to render a list of components
 - setState
 - Event Handling in React
+=======
+![dog gif](react-events.gif)
+>>>>>>> e3b342e077ae6fa1fcb29f32d097dfccd97ac579
