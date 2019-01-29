@@ -30,3 +30,15 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  width: 45%;
+  height: 45%;
+}
+.bark {
+  position: relative;
+  float: right;
+}
+.dogContainer {
+  width: 50%;
+}
