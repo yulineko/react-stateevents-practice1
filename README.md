@@ -5,4 +5,4 @@
 - When a User clicks on the "Bark" button it should render text to the screen that says "Ruff"
 - When a User clicks on the button a second time the "Ruff" should be removed from the DOM
 
-![dog gif](react-stateevents-practice1.mp4)
+![dog gif](react-stateevents-practice1.gif)
