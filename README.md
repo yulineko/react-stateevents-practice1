@@ -6,7 +6,7 @@ TO INSTALL: npm install -g json-server
 
 Then start the json-server:
 
-TO START: json-server --watch db.json
+TO START: json-server --watch dogs.json
 
 1. Make a GET request to `http://localhost:4000/dogs`. You should get a response that is an array of multiple book objects that look like this:
    `{ "id": 1, "name": "Happy Slay", "img": "https://www.sciencenews.org/sites/default/files/2018/08/main/articles/082918_lh_crispr-beagles_feat_REV.jpg", "breed": "Beagle", "ageInHumanYears": 21, "defaultMood": "Happy", "moods": { "angry": "I Hate You", "excited": "Excited" } }`
